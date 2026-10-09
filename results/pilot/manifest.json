@@ -49,11 +49,12 @@
   },
   "source_sha256": {
     "tidelock/__init__.py": "a23486ff8b0d125085521103c940b330eaa9455e46ff24a58f2ebe6dd693d9ab",
-    "tidelock/benchmark.py": "5a8109c068a95d4904b0d2018dd117066020e12439e293b421f3ffdaf510a80e",
+    "tidelock/benchmark.py": "529b5d89db0a0f8be53bd36c1265b2266740856eb098c93f791588d4452dc1d1",
     "tidelock/controllers.py": "0b628aae076b31f3fea7b7875d7d9ff164e9aac1c3aa58d5a5052e401baf49ac",
     "tidelock/model.py": "34c1d7b7a76650a322279890470cecbdabbad402905ad18eb49aa80b9bd9a14b",
     "tidelock/scenarios.py": "d97e9ef0503467fb0a1fdeceb096dcead20c8c5fb83245b46a82da78313df72a",
     "tidelock/simulation.py": "81f03e8364293ceace690a0dec460ea7f32d4ab7d66aa2a1d70995b643ae238c",
     "docs/experiment_protocol.md": "e99c053910017c8a34962211684a079e87f8b77c59afd25f07569a26bb4efe6e"
-  }
+  },
+  "formatting_note": "CSV line endings normalized to LF after execution; numerical results unchanged. Benchmark writer updated to emit LF."
 }
