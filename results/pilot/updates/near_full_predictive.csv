@@ -1,0 +1,61 @@
+time_s,mode,seconds,feasible_plans,reliable,reason,target
+0.0,predictive,0.0017899580125231296,27,True,ok,0.0
+30.0,predictive,0.001787458997569047,27,True,ok,0.0
+60.0,predictive,0.0025163340033032,27,True,ok,0.0
+90.0,predictive,0.0020711669931188226,27,True,ok,0.0
+120.0,predictive,0.0018836659874068573,27,True,ok,0.0
+150.0,predictive,0.0018222910002805293,27,True,ok,0.0
+180.0,predictive,0.0018308329890714958,27,True,ok,0.0
+210.0,predictive,0.0017740000039339066,27,True,ok,0.0
+240.0,predictive,0.0017735830042511225,27,True,ok,0.0
+270.0,predictive,0.0017514579958515242,27,True,ok,0.0
+300.0,predictive,0.0018382499983999878,27,True,ok,0.0
+330.0,predictive,0.002481415998772718,27,True,ok,0.0
+360.0,predictive,0.0019640420068753883,27,True,ok,0.0
+390.0,predictive,0.001854499991168268,27,True,ok,0.0
+420.0,predictive,0.001831208006478846,23,True,ok,0.0
+450.0,predictive,0.0018594169960124418,8,True,ok,0.0
+480.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0018747499998426065,0,True,ok,1.0
+510.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.00175966699316632,0,True,ok,1.0
+540.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0018593749991850927,0,True,ok,1.0
+570.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017322920029982924,0,True,ok,1.0
+600.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0028550419956445694,0,True,ok,1.0
+630.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0021639170008711517,0,True,ok,1.0
+660.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0019485410011839122,0,True,ok,1.0
+690.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017740420007612556,0,True,ok,1.0
+720.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.002507582990801893,0,True,ok,1.0
+750.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0021604590001516044,0,True,ok,1.0
+780.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017995840025832877,0,True,ok,1.0
+810.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0018686249968595803,0,True,ok,1.0
+840.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.001822833000915125,0,True,ok,1.0
+870.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017645000043557957,0,True,ok,1.0
+900.0,predictive,0.0017964580038096756,15,True,ok,0.5
+930.0,predictive,0.0023445410042768344,17,True,ok,0.5
+960.0,predictive,0.002472499996656552,24,True,ok,0.5
+990.0,predictive,0.0018662499933270738,26,True,ok,0.5
+1020.0,predictive,0.0018654579907888547,27,True,ok,0.0
+1050.0,predictive,0.0016975000035017729,27,True,ok,0.0
+1080.0,predictive,0.0016938749904511496,27,True,ok,0.0
+1110.0,predictive,0.0017475420027039945,27,True,ok,0.0
+1140.0,predictive,0.0019259580003563315,27,True,ok,0.0
+1170.0,predictive,0.002602957989438437,27,True,ok,0.0
+1200.0,predictive,0.002088708002702333,27,True,ok,0.0
+1230.0,predictive,0.0018464169988874346,27,True,ok,0.0
+1260.0,predictive,0.0017537920066388324,27,True,ok,0.0
+1290.0,predictive,0.0017824169917730615,26,True,ok,0.0
+1320.0,predictive,0.00198395800543949,26,True,ok,0.0
+1350.0,predictive,0.0017541660054121166,26,True,ok,0.0
+1380.0,predictive,0.0017303750064456835,26,True,ok,0.0
+1410.0,predictive,0.001701749992207624,24,True,ok,0.5
+1440.0,predictive,0.002380917008849792,27,True,ok,0.0
+1470.0,predictive,0.001845916995080188,27,True,ok,0.0
+1500.0,predictive,0.001797125005396083,27,True,ok,0.0
+1530.0,predictive,0.0017367090040352196,27,True,ok,0.0
+1560.0,predictive,0.001768000001902692,27,True,ok,0.0
+1590.0,predictive,0.0017534590006107464,27,True,ok,0.0
+1620.0,predictive,0.001717125007417053,27,True,ok,0.0
+1650.0,predictive,0.001798708995920606,27,True,ok,0.0
+1680.0,predictive,0.0022767920017940924,26,True,ok,0.0
+1710.0,predictive,0.0017979999975068495,24,True,ok,0.5
+1740.0,predictive,0.001762874991982244,27,True,ok,0.0
+1770.0,predictive,0.0016757910052547231,27,True,ok,0.0

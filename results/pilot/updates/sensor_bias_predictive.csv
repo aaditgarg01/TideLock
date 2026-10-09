@@ -1,0 +1,61 @@
+time_s,mode,seconds,feasible_plans,reliable,reason,target
+0.0,predictive,0.001779958009137772,27,True,ok,0.0
+30.0,predictive,0.001789458008715883,27,True,ok,0.0
+60.0,predictive,0.001748791997670196,27,True,ok,0.0
+90.0,predictive,0.0017709170060697943,27,True,ok,0.0
+120.0,predictive,0.0017566250025993213,27,True,ok,0.0
+150.0,predictive,0.0017399170028511435,27,True,ok,0.0
+180.0,predictive,0.0017515409999759868,27,True,ok,0.0
+210.0,predictive,0.001723624998703599,27,True,ok,0.0
+240.0,predictive,0.0017070839967345819,27,True,ok,0.0
+270.0,predictive,0.001703250003629364,27,True,ok,0.0
+300.0,predictive,0.00481858299463056,27,True,ok,0.0
+330.0,predictive,0.001776041986886412,27,True,ok,0.0
+360.0,predictive,0.0017629999929340556,27,True,ok,0.0
+390.0,predictive,0.0017740830080583692,27,True,ok,0.0
+420.0,predictive,0.0019107090047327802,27,True,ok,0.0
+450.0,predictive,0.0017892500036396086,27,True,ok,0.0
+480.0,predictive,0.001734874997055158,14,True,ok,0.5
+510.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.001756209006998688,0,True,ok,0.0
+540.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017271660035476089,0,True,ok,1.0
+570.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.001783250001608394,0,True,ok,1.0
+600.0,ALERT: fallback request; safety not guaranteed,1.0419898899272084e-06,0,False,model innovation exceeds 0.20 m,1.0
+630.0,ALERT: fallback request; safety not guaranteed,6.67001586407423e-07,0,False,model innovation exceeds 0.20 m,0.0
+660.0,ALERT: fallback request; safety not guaranteed,4.1601015254855156e-07,0,False,model innovation exceeds 0.20 m,0.0
+690.0,ALERT: fallback request; safety not guaranteed,3.3299147617071867e-07,0,False,model innovation exceeds 0.20 m,0.0
+720.0,ALERT: fallback request; safety not guaranteed,4.169996827840805e-07,0,False,model innovation exceeds 0.20 m,0.0
+750.0,ALERT: fallback request; safety not guaranteed,2.9199873097240925e-07,0,False,model innovation exceeds 0.20 m,1.0
+780.0,ALERT: fallback request; safety not guaranteed,3.3299147617071867e-07,0,False,model innovation exceeds 0.20 m,1.0
+810.0,ALERT: fallback request; safety not guaranteed,2.9199873097240925e-07,0,False,model innovation exceeds 0.20 m,0.0
+840.0,ALERT: fallback request; safety not guaranteed,2.4998735170811415e-07,0,False,model innovation exceeds 0.20 m,0.0
+870.0,ALERT: fallback request; safety not guaranteed,2.9099464882165194e-07,0,False,model innovation exceeds 0.20 m,0.0
+900.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017737080052029341,0,True,ok,1.0
+930.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.00214770800084807,0,True,ok,1.0
+960.0,predictive,0.0018024580058408901,27,True,ok,0.0
+990.0,predictive,0.0017690839886199683,27,True,ok,0.0
+1020.0,predictive,0.0018588339880807325,27,True,ok,0.0
+1050.0,predictive,0.0018450829957146198,27,True,ok,0.0
+1080.0,predictive,0.0018056669941870496,27,True,ok,0.0
+1110.0,predictive,0.0018977500003529713,27,True,ok,0.0
+1140.0,predictive,0.0020499160018516704,27,True,ok,0.0
+1170.0,predictive,0.0017842080123955384,27,True,ok,0.0
+1200.0,predictive,0.0017898339865496382,27,True,ok,0.0
+1230.0,predictive,0.0017173340020235628,27,True,ok,0.0
+1260.0,predictive,0.0017144169978564605,27,True,ok,0.0
+1290.0,predictive,0.0017036670033121482,27,True,ok,0.0
+1320.0,predictive,0.0016937920008786023,27,True,ok,0.0
+1350.0,predictive,0.0016932500002440065,27,True,ok,0.0
+1380.0,predictive,0.0016980420041363686,27,True,ok,0.0
+1410.0,predictive,0.001713584002573043,27,True,ok,0.0
+1440.0,predictive,0.0017190830112667754,27,True,ok,0.0
+1470.0,predictive,0.001753083008225076,27,True,ok,0.0
+1500.0,predictive,0.0016993750032270327,27,True,ok,0.0
+1530.0,predictive,0.0016909170080907643,27,True,ok,0.0
+1560.0,predictive,0.0017134999943664297,27,True,ok,0.0
+1590.0,predictive,0.0016881250048754737,27,True,ok,0.0
+1620.0,predictive,0.0017068340093828738,27,True,ok,0.0
+1650.0,predictive,0.0017048750014510006,27,True,ok,0.0
+1680.0,predictive,0.0016820829914649948,27,True,ok,0.0
+1710.0,predictive,0.0016829590022098273,27,True,ok,0.0
+1740.0,predictive,0.0016887090023374185,27,True,ok,0.0
+1770.0,predictive,0.0016807909996714443,27,True,ok,0.0

@@ -1,0 +1,16 @@
+time_s,event,detail
+0.0,mode,predictive; ok
+480.0,bypass_command,0.5
+510.0,mode,ALERT: fallback request; safety not guaranteed; no feasible sampled plan; ok
+510.0,bypass_command,0.0
+540.0,bypass_command,1.0
+600.0,fault_start,sensor_bias
+600.0,mode,ALERT: fallback request; safety not guaranteed; model innovation exceeds 0.20 m
+630.0,bypass_command,0.0
+750.0,bypass_command,1.0
+810.0,bypass_command,0.0
+900.0,fault_end,sensor_bias
+900.0,mode,ALERT: fallback request; safety not guaranteed; no feasible sampled plan; ok
+900.0,bypass_command,1.0
+960.0,mode,predictive; ok
+960.0,bypass_command,0.0

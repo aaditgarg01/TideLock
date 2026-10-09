@@ -1,0 +1,6 @@
+time_s,event,detail
+0.0,mode,threshold; ok
+600.0,fault_start,capacity_error
+600.0,bypass_command,1.0
+900.0,fault_end,capacity_error
+1020.0,bypass_command,0.0

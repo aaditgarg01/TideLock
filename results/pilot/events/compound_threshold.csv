@@ -1,0 +1,4 @@
+time_s,event,detail
+0.0,mode,threshold; ok
+600.0,bypass_command,1.0
+1020.0,bypass_command,0.0

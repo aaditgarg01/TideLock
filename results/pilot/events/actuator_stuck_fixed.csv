@@ -1,0 +1,4 @@
+time_s,event,detail
+0.0,mode,fixed; ok
+600.0,fault_start,actuator_stuck
+900.0,fault_end,actuator_stuck

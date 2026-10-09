@@ -1,0 +1,61 @@
+time_s,mode,seconds,feasible_plans,reliable,reason,target
+0.0,predictive,0.0018356250075157732,27,True,ok,0.0
+30.0,predictive,0.001815042007365264,27,True,ok,0.0
+60.0,predictive,0.0017247079958906397,27,True,ok,0.0
+90.0,predictive,0.0021269170101732016,27,True,ok,0.0
+120.0,predictive,0.002173874992877245,27,True,ok,0.0
+150.0,predictive,0.0020747500093420967,27,True,ok,0.0
+180.0,predictive,0.001972583995666355,27,True,ok,0.0
+210.0,predictive,0.0017403329984517768,27,True,ok,0.0
+240.0,predictive,0.0017757499881554395,27,True,ok,0.0
+270.0,predictive,0.0017657919961493462,27,True,ok,0.0
+300.0,predictive,0.0017150000057881698,27,True,ok,0.0
+330.0,predictive,0.0029768750100629404,27,True,ok,0.0
+360.0,predictive,0.002153250010451302,27,True,ok,0.0
+390.0,predictive,0.001825958999688737,27,True,ok,0.0
+420.0,predictive,0.001738292005029507,27,True,ok,0.0
+450.0,predictive,0.0017896670033223927,27,True,ok,0.0
+480.0,predictive,0.001781500002834946,14,True,ok,0.5
+510.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017292920092586428,0,True,ok,0.0
+540.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0025467090017627925,0,True,ok,1.0
+570.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0026433750026626512,0,True,ok,1.0
+600.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0019025840010726824,0,True,ok,1.0
+630.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0018670830031624064,0,True,ok,1.0
+660.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017594580131117254,0,True,ok,1.0
+690.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017257919971598312,0,True,ok,1.0
+720.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017185420001624152,0,True,ok,1.0
+750.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0022949170088395476,0,True,ok,1.0
+780.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0023750410036882386,0,True,ok,1.0
+810.0,predictive,0.002028917006100528,8,True,ok,1.0
+840.0,predictive,0.0019664169958559796,15,True,ok,0.5
+870.0,predictive,0.0017436659982195124,24,True,ok,0.5
+900.0,predictive,0.0017096670053433627,27,True,ok,0.0
+930.0,predictive,0.0017319579928880557,27,True,ok,0.0
+960.0,predictive,0.0017023330001393333,27,True,ok,0.0
+990.0,predictive,0.003598499999498017,27,True,ok,0.0
+1020.0,predictive,0.0021159169991733506,27,True,ok,0.0
+1050.0,predictive,0.0019327079935465008,27,True,ok,0.0
+1080.0,predictive,0.0017072910122806206,27,True,ok,0.0
+1110.0,predictive,0.0017572500073583797,27,True,ok,0.0
+1140.0,predictive,0.0016997499915305525,27,True,ok,0.0
+1170.0,predictive,0.0016875840083230287,27,True,ok,0.0
+1200.0,predictive,0.0030680419877171516,27,True,ok,0.0
+1230.0,predictive,0.0022935419983696193,27,True,ok,0.0
+1260.0,predictive,0.0018590419931570068,27,True,ok,0.0
+1290.0,predictive,0.0018697089981287718,27,True,ok,0.0
+1320.0,predictive,0.001776165998307988,27,True,ok,0.0
+1350.0,predictive,0.0016882500058272853,27,True,ok,0.0
+1380.0,predictive,0.0016981670050881803,27,True,ok,0.0
+1410.0,predictive,0.0027077089907834306,27,True,ok,0.0
+1440.0,predictive,0.002500125003280118,27,True,ok,0.0
+1470.0,predictive,0.0018687910051085055,27,True,ok,0.0
+1500.0,predictive,0.0018507500062696636,27,True,ok,0.0
+1530.0,predictive,0.001705500006210059,27,True,ok,0.0
+1560.0,predictive,0.0017267499933950603,27,True,ok,0.0
+1590.0,predictive,0.0016955840110313147,27,True,ok,0.0
+1620.0,predictive,0.0026545000000623986,27,True,ok,0.0
+1650.0,predictive,0.0026625000027706847,27,True,ok,0.0
+1680.0,predictive,0.002019166000536643,27,True,ok,0.0
+1710.0,predictive,0.001849291002145037,27,True,ok,0.0
+1740.0,predictive,0.001713500008918345,27,True,ok,0.0
+1770.0,predictive,0.0016884590004337952,27,True,ok,0.0

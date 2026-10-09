@@ -1,0 +1,16 @@
+time_s,event,detail
+0.0,mode,threshold; ok
+390.0,bypass_command,1.0
+1050.0,bypass_command,0.0
+1080.0,bypass_command,1.0
+1110.0,bypass_command,0.0
+1140.0,bypass_command,1.0
+1260.0,bypass_command,0.0
+1290.0,bypass_command,1.0
+1440.0,bypass_command,0.0
+1470.0,bypass_command,1.0
+1560.0,bypass_command,0.0
+1590.0,bypass_command,1.0
+1620.0,bypass_command,0.0
+1680.0,bypass_command,1.0
+1740.0,bypass_command,0.0

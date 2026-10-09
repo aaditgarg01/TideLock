@@ -1,0 +1,61 @@
+time_s,mode,seconds,feasible_plans,reliable,reason,target
+0.0,threshold,9.999930625781417e-07,0,True,ok,0.0
+30.0,threshold,4.169996827840805e-07,0,True,ok,0.0
+60.0,threshold,2.500019036233425e-07,0,True,ok,0.0
+90.0,threshold,2.090091584250331e-07,0,True,ok,0.0
+120.0,threshold,2.4998735170811415e-07,0,True,ok,0.0
+150.0,threshold,1.66997779160738e-07,0,True,ok,0.0
+180.0,threshold,2.0800507627427578e-07,0,True,ok,0.0
+210.0,threshold,1.66997779160738e-07,0,True,ok,0.0
+240.0,threshold,2.0899460650980473e-07,0,True,ok,0.0
+270.0,threshold,1.66997779160738e-07,0,True,ok,0.0
+300.0,threshold,1.66997779160738e-07,0,True,ok,0.0
+330.0,threshold,2.0800507627427578e-07,0,True,ok,0.0
+360.0,threshold,1.2500095181167126e-07,0,True,ok,0.0
+390.0,threshold,2.090091584250331e-07,0,True,ok,0.0
+420.0,threshold,1.66997779160738e-07,0,True,ok,0.0
+450.0,threshold,1.6599369700998068e-07,0,True,ok,0.0
+480.0,threshold,1.249863998964429e-07,0,True,ok,0.0
+510.0,threshold,2.500019036233425e-07,0,True,ok,0.0
+540.0,threshold,2.500019036233425e-07,0,True,ok,0.0
+570.0,threshold,2.0800507627427578e-07,0,True,ok,0.0
+600.0,threshold,2.500019036233425e-07,0,True,ok,1.0
+630.0,threshold,9.159994078800082e-07,0,True,ok,1.0
+660.0,threshold,3.7500285543501377e-07,0,True,ok,1.0
+690.0,ALERT: fallback request; safety not guaranteed,1.0839867172762752e-06,0,False,unchanged sensor for four readings,1.0
+720.0,ALERT: fallback request; safety not guaranteed,5.00003807246685e-07,0,False,unchanged sensor for four readings,0.0
+750.0,ALERT: fallback request; safety not guaranteed,4.159956006333232e-07,0,False,unchanged sensor for four readings,1.0
+780.0,ALERT: fallback request; safety not guaranteed,3.33995558321476e-07,0,False,unchanged sensor for four readings,1.0
+810.0,ALERT: fallback request; safety not guaranteed,8.750066626816988e-07,0,False,unchanged sensor for four readings,0.0
+840.0,ALERT: fallback request; safety not guaranteed,4.169996827840805e-07,0,False,unchanged sensor for four readings,0.0
+870.0,ALERT: fallback request; safety not guaranteed,2.9199873097240925e-07,0,False,unchanged sensor for four readings,0.0
+900.0,threshold,5.420006345957518e-07,0,True,ok,1.0
+930.0,threshold,3.7500285543501377e-07,0,True,ok,1.0
+960.0,threshold,5.420006345957518e-07,0,True,ok,1.0
+990.0,threshold,4.1601015254855156e-07,0,True,ok,1.0
+1020.0,threshold,4.5899651013314724e-07,0,True,ok,1.0
+1050.0,threshold,3.3299147617071867e-07,0,True,ok,0.0
+1080.0,threshold,2.079905243590474e-07,0,True,ok,0.0
+1110.0,threshold,4.5899651013314724e-07,0,True,ok,0.0
+1140.0,threshold,2.500019036233425e-07,0,True,ok,0.0
+1170.0,threshold,5.830079317092896e-07,0,True,ok,0.0
+1200.0,threshold,2.9199873097240925e-07,0,True,ok,0.0
+1230.0,threshold,3.3300602808594704e-07,0,True,ok,0.0
+1260.0,threshold,3.7500285543501377e-07,0,True,ok,0.0
+1290.0,threshold,2.500019036233425e-07,0,True,ok,0.0
+1320.0,threshold,2.9099464882165194e-07,0,True,ok,0.0
+1350.0,threshold,2.0800507627427578e-07,0,True,ok,0.0
+1380.0,threshold,2.4998735170811415e-07,0,True,ok,0.0
+1410.0,threshold,4.169996827840805e-07,0,True,ok,0.0
+1440.0,threshold,4.5799242798238993e-07,0,True,ok,0.0
+1470.0,threshold,2.4998735170811415e-07,0,True,ok,0.0
+1500.0,threshold,2.090091584250331e-07,0,True,ok,0.0
+1530.0,threshold,2.090091584250331e-07,0,True,ok,0.0
+1560.0,threshold,5.00003807246685e-07,0,True,ok,0.0
+1590.0,threshold,3.33995558321476e-07,0,True,ok,0.0
+1620.0,threshold,2.500019036233425e-07,0,True,ok,0.0
+1650.0,threshold,2.0800507627427578e-07,0,True,ok,0.0
+1680.0,threshold,2.500019036233425e-07,0,True,ok,0.0
+1710.0,threshold,2.9199873097240925e-07,0,True,ok,0.0
+1740.0,threshold,1.66997779160738e-07,0,True,ok,0.0
+1770.0,threshold,1.6701233107596636e-07,0,True,ok,0.0

@@ -1,0 +1,12 @@
+time_s,event,detail
+0.0,mode,threshold; ok
+600.0,fault_start,telemetry_delay
+600.0,mode,ALERT: fallback request; safety not guaranteed; stale timestamp
+600.0,bypass_command,1.0
+660.0,bypass_command,0.0
+750.0,bypass_command,1.0
+810.0,bypass_command,0.0
+900.0,fault_end,telemetry_delay
+900.0,mode,threshold; ok
+900.0,bypass_command,1.0
+1050.0,bypass_command,0.0

@@ -1,0 +1,61 @@
+time_s,mode,seconds,feasible_plans,reliable,reason,target
+0.0,predictive,0.0021587079972960055,27,True,ok,0.0
+30.0,predictive,0.002336332996492274,27,True,ok,0.0
+60.0,predictive,0.0019162079988745973,27,True,ok,0.0
+90.0,predictive,0.0027683749940479174,27,True,ok,0.0
+120.0,predictive,0.0020223750034347177,27,True,ok,0.0
+150.0,predictive,0.00182154199865181,27,True,ok,0.0
+180.0,predictive,0.0019537920015864074,27,True,ok,0.0
+210.0,predictive,0.001885125006083399,27,True,ok,0.0
+240.0,predictive,0.002609957999084145,27,True,ok,0.0
+270.0,predictive,0.00179237499833107,27,True,ok,0.0
+300.0,predictive,0.0018084589974023402,27,True,ok,0.0
+330.0,predictive,0.0018638750043464825,27,True,ok,0.0
+360.0,predictive,0.0018145000067306682,27,True,ok,0.0
+390.0,predictive,0.001878666997072287,27,True,ok,0.0
+420.0,predictive,0.0018095830018864945,27,True,ok,0.0
+450.0,predictive,0.0018484580068616197,27,True,ok,0.0
+480.0,predictive,0.002044958993792534,14,True,ok,0.5
+510.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.001730457996018231,0,True,ok,0.0
+540.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017905409913510084,0,True,ok,1.0
+570.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.001779417012585327,0,True,ok,1.0
+600.0,ALERT: fallback request; safety not guaranteed,5.829933797940612e-07,0,False,missing packet,0.0
+630.0,ALERT: fallback request; safety not guaranteed,3.7500285543501377e-07,0,False,missing packet,0.0
+660.0,ALERT: fallback request; safety not guaranteed,4.169996827840805e-07,0,False,missing packet,0.0
+690.0,ALERT: fallback request; safety not guaranteed,2.9099464882165194e-07,0,False,missing packet,0.0
+720.0,ALERT: fallback request; safety not guaranteed,2.0800507627427578e-07,0,False,missing packet,0.0
+750.0,ALERT: fallback request; safety not guaranteed,4.580069798976183e-07,0,False,missing packet,1.0
+780.0,ALERT: fallback request; safety not guaranteed,9.590003173798323e-07,0,False,missing packet,1.0
+810.0,ALERT: fallback request; safety not guaranteed,4.5799242798238993e-07,0,False,missing packet,1.0
+840.0,ALERT: fallback request; safety not guaranteed,3.7500285543501377e-07,0,False,missing packet,0.0
+870.0,ALERT: fallback request; safety not guaranteed,3.33995558321476e-07,0,False,missing packet,0.0
+900.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0018275839975103736,0,True,ok,1.0
+930.0,predictive,0.0018272079905727878,18,True,ok,0.5
+960.0,predictive,0.0019235420040786266,27,True,ok,0.0
+990.0,predictive,0.002684541992493905,27,True,ok,0.0
+1020.0,predictive,0.0018437090038787574,27,True,ok,0.0
+1050.0,predictive,0.001813208989915438,27,True,ok,0.0
+1080.0,predictive,0.0019208330049877986,27,True,ok,0.0
+1110.0,predictive,0.0018345830030739307,27,True,ok,0.0
+1140.0,predictive,0.001805291001801379,27,True,ok,0.0
+1170.0,predictive,0.0018326249992242083,27,True,ok,0.0
+1200.0,predictive,0.0025378749996889383,27,True,ok,0.0
+1230.0,predictive,0.0037721660046372563,27,True,ok,0.0
+1260.0,predictive,0.002226042008260265,27,True,ok,0.0
+1290.0,predictive,0.0036993749963585287,27,True,ok,0.0
+1320.0,predictive,0.007312750007258728,27,True,ok,0.0
+1350.0,predictive,0.0031695000070612878,27,True,ok,0.0
+1380.0,predictive,0.01464720799413044,27,True,ok,0.0
+1410.0,predictive,0.012979584003915079,27,True,ok,0.0
+1440.0,predictive,0.00198041700059548,27,True,ok,0.0
+1470.0,predictive,0.002926959001342766,27,True,ok,0.0
+1500.0,predictive,0.008249666992924176,27,True,ok,0.0
+1530.0,predictive,0.005030458007240668,27,True,ok,0.0
+1560.0,predictive,0.001797542005078867,27,True,ok,0.0
+1590.0,predictive,0.0027981250023003668,27,True,ok,0.0
+1620.0,predictive,0.0026577079988783225,27,True,ok,0.0
+1650.0,predictive,0.0033439580001868308,27,True,ok,0.0
+1680.0,predictive,0.0021895829995628446,27,True,ok,0.0
+1710.0,predictive,0.0019877910090144724,27,True,ok,0.0
+1740.0,predictive,0.0019969999993918464,27,True,ok,0.0
+1770.0,predictive,0.0019899580074707046,27,True,ok,0.0

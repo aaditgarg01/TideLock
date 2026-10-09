@@ -1,0 +1,11 @@
+time_s,event,detail
+0.0,mode,predictive; ok
+480.0,bypass_command,0.5
+510.0,mode,ALERT: fallback request; safety not guaranteed; no feasible sampled plan; ok
+510.0,bypass_command,0.0
+540.0,bypass_command,1.0
+600.0,fault_start,actuator_stuck
+810.0,mode,predictive; ok
+840.0,bypass_command,0.5
+870.0,bypass_command,0.0
+900.0,fault_end,actuator_stuck

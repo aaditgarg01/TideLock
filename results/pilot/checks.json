@@ -1,0 +1,12 @@
+{
+  "conservation_pass": true,
+  "ordinary_safety_pass": true,
+  "convergence_pass": true,
+  "predictive_median_compute_target_pass": true,
+  "hypothesis_qualifying_scenarios": [
+    "monsoon",
+    "compound"
+  ],
+  "hypothesis_at_least_two_pass": true,
+  "infeasible_extreme_tide_alert_pass": true
+}

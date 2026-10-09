@@ -1,0 +1,7 @@
+time_s,event,detail
+0.0,mode,predictive; ok
+510.0,mode,ALERT: fallback request; safety not guaranteed; no feasible sampled plan; ok
+540.0,bypass_command,1.0
+870.0,mode,predictive; ok
+870.0,bypass_command,0.5
+930.0,bypass_command,0.0

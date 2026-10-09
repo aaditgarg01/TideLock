@@ -1,0 +1,61 @@
+time_s,mode,seconds,feasible_plans,reliable,reason,target
+0.0,predictive,0.0018734170007519424,27,True,ok,0.0
+30.0,predictive,0.0018737920036073774,27,True,ok,0.0
+60.0,predictive,0.0018693750025704503,27,True,ok,0.0
+90.0,predictive,0.0018115419952664524,27,True,ok,0.0
+120.0,predictive,0.0017896250064950436,27,True,ok,0.0
+150.0,predictive,0.0018149999959859997,27,True,ok,0.0
+180.0,predictive,0.0018027500045718625,27,True,ok,0.0
+210.0,predictive,0.0018025830067927018,27,True,ok,0.0
+240.0,predictive,0.0018105829949490726,27,True,ok,0.0
+270.0,predictive,0.0019905840017599985,27,True,ok,0.0
+300.0,predictive,0.001883792006992735,27,True,ok,0.0
+330.0,predictive,0.0018215829913970083,27,True,ok,0.0
+360.0,predictive,0.0018176250014221296,27,True,ok,0.0
+390.0,predictive,0.001814874995034188,27,True,ok,0.0
+420.0,predictive,0.0018385410076007247,27,True,ok,0.0
+450.0,predictive,0.001902250005514361,27,True,ok,0.0
+480.0,predictive,0.0018027079931925982,13,True,ok,0.0
+510.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.001824749997467734,0,True,ok,0.0
+540.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0019214589992770925,0,True,ok,1.0
+570.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.00187387500773184,0,True,ok,1.0
+600.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017827920091804117,0,True,ok,1.0
+630.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017777500033844262,0,True,ok,1.0
+660.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017604580061743036,0,True,ok,1.0
+690.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.001785166998161003,0,True,ok,1.0
+720.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017854159959824756,0,True,ok,1.0
+750.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.002038625010754913,0,True,ok,1.0
+780.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0018380420078756288,0,True,ok,1.0
+810.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.0017777080065570772,0,True,ok,1.0
+840.0,ALERT: fallback request; safety not guaranteed; no feasible sampled plan,0.001780375008820556,0,True,ok,1.0
+870.0,predictive,0.0017922920087585226,24,True,ok,0.5
+900.0,predictive,0.0017964579892577603,24,True,ok,0.5
+930.0,predictive,0.0017857500060927123,27,True,ok,0.0
+960.0,predictive,0.0017775829910533503,27,True,ok,0.0
+990.0,predictive,0.001856000002590008,27,True,ok,0.0
+1020.0,predictive,0.0018755000055534765,27,True,ok,0.0
+1050.0,predictive,0.0017536670056870207,27,True,ok,0.0
+1080.0,predictive,0.0017687090003164485,27,True,ok,0.0
+1110.0,predictive,0.001766291999956593,27,True,ok,0.0
+1140.0,predictive,0.0017846249975264072,27,True,ok,0.0
+1170.0,predictive,0.0017499160021543503,27,True,ok,0.0
+1200.0,predictive,0.001789374990039505,27,True,ok,0.0
+1230.0,predictive,0.0018212919967481866,27,True,ok,0.0
+1260.0,predictive,0.0018416250095469877,27,True,ok,0.0
+1290.0,predictive,0.0018326249992242083,27,True,ok,0.0
+1320.0,predictive,0.0017046669963747263,27,True,ok,0.0
+1350.0,predictive,0.001786458000424318,27,True,ok,0.0
+1380.0,predictive,0.0017688749940134585,27,True,ok,0.0
+1410.0,predictive,0.0017671249952400103,27,True,ok,0.0
+1440.0,predictive,0.0017954579961951822,27,True,ok,0.0
+1470.0,predictive,0.0018044160096906126,27,True,ok,0.0
+1500.0,predictive,0.0018427920003887266,27,True,ok,0.0
+1530.0,predictive,0.00189124999451451,27,True,ok,0.0
+1560.0,predictive,0.0018500420119380578,27,True,ok,0.0
+1590.0,predictive,0.0019217499939259142,27,True,ok,0.0
+1620.0,predictive,0.0017699579912004992,27,True,ok,0.0
+1650.0,predictive,0.001777707992005162,27,True,ok,0.0
+1680.0,predictive,0.0017919589881785214,27,True,ok,0.0
+1710.0,predictive,0.0018097499996656552,27,True,ok,0.0
+1740.0,predictive,0.005153916994458996,27,True,ok,0.0
+1770.0,predictive,0.0018511669914005324,27,True,ok,0.0

@@ -1,0 +1,4 @@
+time_s,event,detail
+0.0,mode,fixed; ok
+600.0,fault_start,sensor_bias
+900.0,fault_end,sensor_bias

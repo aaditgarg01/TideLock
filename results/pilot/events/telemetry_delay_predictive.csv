@@ -1,0 +1,17 @@
+time_s,event,detail
+0.0,mode,predictive; ok
+480.0,bypass_command,0.5
+510.0,mode,ALERT: fallback request; safety not guaranteed; no feasible sampled plan; ok
+510.0,bypass_command,0.0
+540.0,bypass_command,1.0
+600.0,fault_start,telemetry_delay
+600.0,mode,ALERT: fallback request; safety not guaranteed; stale timestamp
+600.0,bypass_command,0.0
+750.0,bypass_command,1.0
+840.0,bypass_command,0.0
+900.0,fault_end,telemetry_delay
+900.0,mode,ALERT: fallback request; safety not guaranteed; no feasible sampled plan; ok
+900.0,bypass_command,1.0
+930.0,mode,predictive; ok
+930.0,bypass_command,0.5
+960.0,bypass_command,0.0

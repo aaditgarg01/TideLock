@@ -1,0 +1,8 @@
+time_s,event,detail
+0.0,mode,predictive; ok
+570.0,bypass_command,0.5
+600.0,bypass_command,0.0
+630.0,bypass_command,0.5
+660.0,bypass_command,0.0
+690.0,bypass_command,0.5
+750.0,bypass_command,0.0

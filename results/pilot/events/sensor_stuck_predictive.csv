@@ -1,0 +1,19 @@
+time_s,event,detail
+0.0,mode,predictive; ok
+480.0,bypass_command,0.5
+510.0,mode,ALERT: fallback request; safety not guaranteed; no feasible sampled plan; ok
+510.0,bypass_command,0.0
+540.0,bypass_command,1.0
+600.0,fault_start,sensor_stuck
+660.0,bypass_command,0.0
+690.0,mode,ALERT: fallback request; safety not guaranteed; unchanged sensor for four readings
+690.0,bypass_command,1.0
+720.0,bypass_command,0.0
+750.0,bypass_command,1.0
+810.0,bypass_command,0.0
+900.0,fault_end,sensor_stuck
+900.0,mode,ALERT: fallback request; safety not guaranteed; no feasible sampled plan; ok
+900.0,bypass_command,1.0
+930.0,mode,predictive; ok
+930.0,bypass_command,0.5
+960.0,bypass_command,0.0
