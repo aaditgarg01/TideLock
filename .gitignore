@@ -7,3 +7,9 @@ results/local/
 results/colab/
 results/colab_full/
 results/custom/
+.tidelock/
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+frontend/*.tsbuildinfo

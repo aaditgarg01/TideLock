@@ -2,7 +2,24 @@
 
 **Predictive plastic interception under tidal drainage constraints.**
 
-Research-first, software-only feasibility prototype for InnovateX Theme 3. This repository contains a small runnable virtual plant and evidence package, not a field-ready drainage controller or completed dashboard.
+Research-first, software-only feasibility prototype for InnovateX Theme 3. This repository contains a small runnable virtual plant and evidence package, with an integrated interactive dashboard. It is not a field-ready drainage controller.
+
+## Interactive dashboard
+
+Seven working screens connect directly to the existing simulator: overview, simulation laboratory, controller comparison, state replay, event/fault log, experiment evidence and model health. New runs are stored separately; the committed pilot is preserved.
+
+See [installation, architecture, API contracts, limitations and demo guide](docs/dashboard.md).
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements-dashboard-lock.txt
+npm --prefix frontend ci
+npm --prefix frontend run build
+python -m uvicorn dashboard_api.app:app --host 127.0.0.1 --port 8000
+```
+
+Open **http://127.0.0.1:8000**. API documentation: **http://127.0.0.1:8000/docs**. Use one API worker and a local filesystem for active run storage. Requires Python 3.12+ and Node 22.12+ for the pinned dashboard dependencies.
 
 ## Start here
 
@@ -18,7 +35,7 @@ Research-first, software-only feasibility prototype for InnovateX Theme 3. This 
 
 Conservative storage/debris simulator; fixed, hysteretic and finite-horizon predictive controllers; noisy/failed virtual water-level sensors; rate-limited, delayed or stuck actuator; finite basket and maintenance events; tide/backflow cases; shared seeded disturbances; CSV evidence, event logs and charts; automated physics tests; a My Drive-ready notebook.
 
-**Not built yet:** FastAPI/React dashboard, independent hydraulic calibration, comprehensive fault-tolerant safety supervisor, field cost quotations, real Mumbai data or hardware. Those are later milestones in the development plan, consistent with starting from the research and minimal experiment first.
+**Not built yet:** Independent hydraulic calibration, comprehensive fault-tolerant safety supervisor, field cost quotations, real Mumbai data or hardware. Those are later milestones in the development plan, consistent with starting from the research and minimal experiment first.
 
 ## What the pilot actually found
 
@@ -45,7 +62,7 @@ Requires Python 3.11+; tested with the versions in requirements-lock.txt. From t
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements-lock.txt
-python -m unittest discover -s tests -v
+python -m unittest discover -s tests -p test_physics.py -v
 python -m tidelock.benchmark --output results/local
 ```
 
